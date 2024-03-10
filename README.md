@@ -1,6 +1,7 @@
 ## Visual-Crypto-Coding
 
 Visual Crypto Coding - Cryptographic technique that involves encryption of an input image using a randomly generated key and decrypt the exact image using the same key. This technique is useful for transmission and storage of highly secure images
+Along with the encrypted images, this code also obtains decrypted images to verify data integrity. This means that the decrypted images in all the four algorithms must be same as the input image.
 
 ### Preview
 
@@ -10,7 +11,7 @@ Visual Crypto Coding - Cryptographic technique that involves encryption of an in
 
 ![aes rsa](https://github.com/imsatyasaiteja/Visual-Crypto-Coding/assets/85508314/76410325-ce7c-475b-9497-95ae15100e04)
 
-Along with the encrypted images, this code also obtains decrypted images to verify data integrity. This means that the decrypted images in all the four algorithms must be same as the input image.
+### Encryption Time
 
 The encryption time all the four algorithms are obtained as follows in EncryptTime.txt file
 
@@ -23,10 +24,8 @@ The encryption time all the four algorithms are obtained as follows in EncryptTi
 
 Further improvements and changes can be done to this code to improve data confidentiality, efficiency and much more. Feel free to work with the code and make changes.
 
-### Resources
+### References
 
 [Java Cryptography Architecture - Reference Guide](https://docs.oracle.com/en/java/javase/11/security/java-cryptography-architecture-jca-reference-guide.html)
 
 [Data Encryption Methods & Types](https://www.splunk.com/en_us/blog/learn/data-encryption-methods-types.html)
-
-
