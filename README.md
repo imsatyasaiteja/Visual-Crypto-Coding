@@ -7,11 +7,9 @@
 - Further improvements can be done to improve data confidentiality, efficiency of the codes. Please feel free to submit a pull request.
 
 ## Preview
-![input](https://github.com/imsatyasaiteja/Visual-Crypto-Coding/assets/85508314/2f4900f4-5cef-4080-875f-d8f40546ed15)
-
-![des tdes](https://github.com/imsatyasaiteja/Visual-Crypto-Coding/assets/85508314/f521c559-8037-4221-b08a-b88180c90ec1)
-
-![aes rsa](https://github.com/imsatyasaiteja/Visual-Crypto-Coding/assets/85508314/76410325-ce7c-475b-9497-95ae15100e04)
+<img src="https://github.com/imsatyasaiteja/Visual-Crypto-Coding/assets/85508314/2f4900f4-5cef-4080-875f-d8f40546ed15" width="600" alt="vcc(1)">
+<img src="https://github.com/imsatyasaiteja/Visual-Crypto-Coding/assets/85508314/f521c559-8037-4221-b08a-b88180c90ec1" width="600" alt="vcc(2)">
+<img src="https://github.com/imsatyasaiteja/Visual-Crypto-Coding/assets/85508314/76410325-ce7c-475b-9497-95ae15100e04" width="600" alt="vcc(3)">
 
 ## Encryption Time
 - The encryption time of all the four algorithms are obtained as follows in EncryptTime.txt file
